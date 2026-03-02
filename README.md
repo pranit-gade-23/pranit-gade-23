@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋 I'm Pranit Gade
 
-<!--
-**pranit-gade-23/pranit-gade-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering Student (2026)  
+💻 Aspiring Python Developer  
+🚀 Passionate about AI, Machine Learning & Web Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔹 Strong foundation in Python programming  
+- 🔹 Built Real-Time Object Detection system using TensorFlow & OpenCV  
+- 🔹 Interested in backend development and problem solving  
+- 🔹 Currently looking for Python Developer Internship opportunities  
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming:** Python, JavaScript  
+**Libraries:** TensorFlow, OpenCV, NumPy  
+**Web:** HTML, CSS, Bootstrap  
+**Tools:** Git, VS Code  
+
+---
+
+## 📌 Projects
+
+🔹 Real-Time Object Detection System  
+Using TensorFlow Hub SSD MobileNet V2 model for live webcam detection.
+
+---
+
+## 📫 Contact Me
+
+📧 pranitgade44@gmail.com  
+📍 Pune, Maharashtra  
+
+---
+
+⭐ Always learning. Always building.
